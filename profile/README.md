@@ -1,6 +1,6 @@
-## Climate and Extremes Data Science
+## PARETO group
 Based in the Department of Atmospheric and Oceanic Science at the University of Maryland, College Park
 
-Welcome! Our research focuses on the application of machine learning tools (e.g. neural networks) and numerical modeling systems (e.g. CESM) to answer pressing questions in the domains of climate and extremes.
+Welcome! We focus on Predictability and Applied Research for the Earth-system with Training and Optimization (PARETO). As such, we use machine learning (e.g., neural networks) and numerical modeling systems (e.g., CESM) to answer pressing questions and address challenges in modeling the Earth system.
 
 
